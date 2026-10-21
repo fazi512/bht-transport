@@ -1,0 +1,261 @@
+[
+  {
+    "id": "ltm11200",
+    "model": "Liebherr LTM 11200-9.1",
+    "capacity": "1200 Ton",
+    "boom": "100m & 55m",
+    "jib": "6.5m to 36.5m Luffing 18m to 126m",
+    "type": "All-Terrain",
+    "image": "image_20261021_110613.webp",
+    "popular": true
+  },
+  {
+    "id": "ltm1750",
+    "model": "Liebherr LTM 1750-9.1",
+    "capacity": "800 Ton",
+    "boom": "52m",
+    "jib": "6m to 55m Luffing 21m to 91m",
+    "type": "All-Terrain",
+    "image": "image_20261021_110606.webp",
+    "popular": true
+  },
+  {
+    "id": "ltm1500-81",
+    "model": "Liebherr LTM 1500-8.1",
+    "capacity": "500 Ton",
+    "boom": "84m",
+    "jib": "6m to 63m Luffing 21m to 91m",
+    "type": "All-Terrain",
+    "image": "image_20261021_110609.webp",
+    "popular": true
+  },
+  {
+    "id": "ltm1400",
+    "model": "Liebherr LTM 1400-7.1",
+    "capacity": "400 Ton",
+    "boom": "60m",
+    "jib": "7m to 56m Luffing 14m to 84m",
+    "type": "All-Terrain",
+    "image": "image_20261021_110613.webp"
+  },
+  {
+    "id": "ltm1350",
+    "model": "Liebherr LTM 1350-6.1",
+    "capacity": "350 Ton",
+    "boom": "70m",
+    "jib": "6m to 42m Luffing 12m to 78m",
+    "type": "All-Terrain",
+    "image": "image_20261021_110606.webp"
+  },
+  {
+    "id": "demag-ac350",
+    "model": "Demag AC 350",
+    "capacity": "350 Ton",
+    "boom": "56m",
+    "jib": "7.3m to 49.5m Luffing 25m to 71.5m",
+    "type": "All-Terrain",
+    "image": "image_20261021_110609.webp"
+  },
+  {
+    "id": "ltm1300",
+    "model": "Liebherr LTM 1300-6.1",
+    "capacity": "300 Ton",
+    "boom": "60m",
+    "jib": "12.1m to 49m Luffing 17.5m to 70m",
+    "type": "All-Terrain",
+    "image": "image_20261021_110613.webp",
+    "popular": true
+  },
+  {
+    "id": "gmk6300",
+    "model": "Grove GMK 6300L",
+    "capacity": "300 Ton",
+    "boom": "80m",
+    "jib": "12m to 21m",
+    "type": "All-Terrain",
+    "image": "image_20261021_110606.webp",
+    "popular": true
+  },
+  {
+    "id": "ltm1250",
+    "model": "Liebherr LTM 1250-6.1",
+    "capacity": "250 Ton",
+    "boom": "72m",
+    "jib": "5.4m to 36m Luffing 17.5m to 70m",
+    "type": "All-Terrain",
+    "image": "image_20261021_110609.webp"
+  },
+  {
+    "id": "atf220",
+    "model": "Tadano ATF 220G-5",
+    "capacity": "220 Ton",
+    "boom": "68m",
+    "jib": "5.4m to 37.2m",
+    "type": "All-Terrain",
+    "image": "image_20261021_110613.webp"
+  },
+  {
+    "id": "ltm1200",
+    "model": "Liebherr LTM 1200-5.1",
+    "capacity": "200 Ton",
+    "boom": "72m",
+    "jib": "5.4m to 36m",
+    "type": "All-Terrain",
+    "image": "image_20261021_110606.webp"
+  },
+  {
+    "id": "atf160",
+    "model": "Tadano ATF 160G-5",
+    "capacity": "160 Ton",
+    "boom": "60m",
+    "jib": "5.4m to 37.2m",
+    "type": "All-Terrain",
+    "image": "image_20261021_110609.webp"
+  },
+  {
+    "id": "ltm1160",
+    "model": "Liebherr LTM 1160/2",
+    "capacity": "160 Ton",
+    "boom": "60m",
+    "jib": "12.2m to 36m",
+    "type": "All-Terrain",
+    "image": "image_20261021_110613.webp"
+  },
+  {
+    "id": "lr11350",
+    "model": "Liebherr LR 11350",
+    "capacity": "1350 Ton",
+    "boom": "150m",
+    "jib": "84m Luffing",
+    "type": "Crawler",
+    "image": "image_20261021_111947.webp",
+    "popular": true
+  },
+  {
+    "id": "lr11000",
+    "model": "Liebherr LR 11000",
+    "capacity": "1000 Ton",
+    "boom": "156m",
+    "jib": "114m Luffing",
+    "type": "Crawler",
+    "image": "image_20261021_110606.webp",
+    "popular": true
+  },
+  {
+    "id": "lr1750",
+    "model": "Liebherr LR 1750",
+    "capacity": "750 Ton",
+    "boom": "140m",
+    "jib": "105m Luffing",
+    "type": "Crawler",
+    "image": "image_20261021_110609.webp"
+  },
+  {
+    "id": "cc2800",
+    "model": "Demag CC 2800-1",
+    "capacity": "600 Ton",
+    "boom": "108m",
+    "jib": "96m Luffing",
+    "type": "Crawler",
+    "image": "image_20261021_111947.webp"
+  },
+  {
+    "id": "lr1600",
+    "model": "Liebherr LR 1600",
+    "capacity": "600 Ton",
+    "boom": "144m",
+    "jib": "96m Luffing",
+    "type": "Crawler",
+    "image": "image_20261021_110606.webp"
+  },
+  {
+    "id": "cc2500",
+    "model": "Demag CC 2500-1",
+    "capacity": "500 Ton",
+    "boom": "108m",
+    "jib": "84m Luffing",
+    "type": "Crawler",
+    "image": "image_20261021_110609.webp"
+  },
+  {
+    "id": "lr1400",
+    "model": "Liebherr LR 1400",
+    "capacity": "400 Ton",
+    "boom": "138m",
+    "jib": "96m Luffing",
+    "type": "Crawler",
+    "image": "image_20261021_111947.webp"
+  },
+  {
+    "id": "lrt1100",
+    "model": "Liebherr LRT 1100-2.1",
+    "capacity": "100 Ton",
+    "boom": "50m",
+    "jib": "69m",
+    "type": "Rough-Terrain",
+    "image": "image_20261021_110613.webp"
+  },
+  {
+    "id": "gr800",
+    "model": "Tadano GR-800EX",
+    "capacity": "80 Ton",
+    "boom": "47m",
+    "jib": "17.7m",
+    "type": "Rough-Terrain",
+    "image": "image_20261021_110606.webp"
+  },
+  {
+    "id": "stc750",
+    "model": "Sany STC 750",
+    "capacity": "75 Ton",
+    "boom": "45m",
+    "jib": "9.2m to 16m",
+    "type": "Truck-Mounted",
+    "image": "image_20261021_110609.webp"
+  },
+  {
+    "id": "stc500",
+    "model": "Sany STC 500",
+    "capacity": "50 Ton",
+    "boom": "43m",
+    "jib": "9.2m to 16m",
+    "type": "Truck-Mounted",
+    "image": "image_20261021_110606.webp"
+  },
+  {
+    "id": "aerial-jlg",
+    "model": "JLG 1200SJP Aerial Platform",
+    "capacity": "450kg",
+    "boom": "38m Height",
+    "jib": "Aerial Work Platform",
+    "type": "Aerial Platform",
+    "image": "image_20261021_112002.webp"
+  },
+  {
+    "id": "telehandler",
+    "model": "JCB Telehandler 540-170",
+    "capacity": "4 Ton",
+    "boom": "17m",
+    "jib": "Telehandler System",
+    "type": "Telehandler",
+    "image": "image_20261021_110609.webp"
+  },
+  {
+    "id": "forklift-10t",
+    "model": "Forklift 10 Ton Diesel",
+    "capacity": "10 Ton",
+    "boom": "Forklift",
+    "jib": "Industrial",
+    "type": "Forklift",
+    "image": "image_20261021_110606.webp"
+  },
+  {
+    "id": "lowbed-12axle",
+    "model": "Low Bed 12 Axle Trailer",
+    "capacity": "150 Ton",
+    "boom": "Low Bed",
+    "jib": "Heavy Transport",
+    "type": "Low Bed & Trailers",
+    "image": "image_20261021_110613.webp"
+  }
+]
